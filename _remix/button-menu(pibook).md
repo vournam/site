@@ -13,7 +13,10 @@ tags:
 ---
 
 Διαδραστικό παράδειγμα κώδικα που δημιουργεί ένα μενού με κουμπιά που κατά την επιλογή του καθενός από αυτά (Κλικ στο εικονίδιο) σε μεταφέρει στην αντίστοιχη σελίδα του βιβλίου pibook.
-<p data-height="350" data-theme-id="17517" data-slug-hash="vOoyJG" data-default-tab="result" data-user="vournam" class='codepen'>See the Pen <a href='https://codepen.io/vournam/pen/porpRwB'>button menu(pibook)</a> by (<a href='https://codepen.io/vournam'>@vournam</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
-
+<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="porpRwB" data-user="vournam" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/vournam/pen/porpRwB">
+  Button Menu(pibook)</a> by Maria-Melina Vourna (<a href="https://codepen.io/vournam">@vournam</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 Άσκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά το κατά το Hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα), να αλλάζει το design του button(e.x. linear gradient,box shadow).
