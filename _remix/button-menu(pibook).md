@@ -19,4 +19,4 @@ tags:
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-Άσκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά το κατά το Hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα), να αλλάζει το design του button(e.x. linear gradient,box shadow).
+Άσκηση: Επεκτείνετε τον κώδικα του παραδείγματος έτσι ώστε κατά το Hover (κίνηση του ποντικιού πάνω από την εικόνα στο συγκεκριμένο παράδειγμα), να αλλάζει το design του button (e.x. linear gradient,box shadow).
